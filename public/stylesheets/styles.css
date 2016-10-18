@@ -1,0 +1,50 @@
+
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+body {
+    background-color: #2c313b;
+
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.info {
+    padding: 10px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+
+
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.btn-custom {
+  background-color: hsl(15, 100%, 55%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fffbf9", endColorstr="#ff5219");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#fffbf9), to(#ff5219));
+  background-image: -moz-linear-gradient(top, #fffbf9, #ff5219);
+  background-image: -ms-linear-gradient(top, #fffbf9, #ff5219);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fffbf9), color-stop(100%, #ff5219));
+  background-image: -webkit-linear-gradient(top, #fffbf9, #ff5219);
+  background-image: -o-linear-gradient(top, #fffbf9, #ff5219);
+  background-image: linear-gradient(#fffbf9, #ff5219);
+  border-color: #ff5219 #ff5219 hsl(15, 100%, 44%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.72);
+  -webkit-font-smoothing: antialiased;
+  text-decoration:none;
+}
+a:hover, a:visited, a:link, a:active{
+    text-decoration:none;
+    color:white;
+}

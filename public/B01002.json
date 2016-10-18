@@ -1,0 +1,34 @@
+[
+  {
+    "GEO.id": "GEO.id2",
+    "Id": "Id2"
+  },
+  {
+    "GEO.id": "GEO.display-label",
+    "Id": "Geography"
+  },
+  {
+    "GEO.id": "HD01_VD02",
+    "Id": "Estimate; Median age -- - Total:"
+  },
+  {
+    "GEO.id": "HD02_VD02",
+    "Id": "Margin of Error; Median age -- - Total:"
+  },
+  {
+    "GEO.id": "HD01_VD03",
+    "Id": "Estimate; Median age -- - Male"
+  },
+  {
+    "GEO.id": "HD02_VD03",
+    "Id": "Margin of Error; Median age -- - Male"
+  },
+  {
+    "GEO.id": "HD01_VD04",
+    "Id": "Estimate; Median age -- - Female"
+  },
+  {
+    "GEO.id": "HD02_VD04",
+    "Id": "Margin of Error; Median age -- - Female"
+  }
+]

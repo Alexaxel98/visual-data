@@ -1,0 +1,402 @@
+[
+  {
+    "GEO.id": "GEO.id2",
+    "Id": "Id2"
+  },
+  {
+    "GEO.id": "GEO.display-label",
+    "Id": "Geography"
+  },
+  {
+    "GEO.id": "HD01_VD01",
+    "Id": "Estimate; Total:"
+  },
+  {
+    "GEO.id": "HD02_VD01",
+    "Id": "Margin of Error; Total:"
+  },
+  {
+    "GEO.id": "HD01_VD02",
+    "Id": "Estimate; Male:"
+  },
+  {
+    "GEO.id": "HD02_VD02",
+    "Id": "Margin of Error; Male:"
+  },
+  {
+    "GEO.id": "HD01_VD03",
+    "Id": "Estimate; Male: - Under 5 years"
+  },
+  {
+    "GEO.id": "HD02_VD03",
+    "Id": "Margin of Error; Male: - Under 5 years"
+  },
+  {
+    "GEO.id": "HD01_VD04",
+    "Id": "Estimate; Male: - 5 to 9 years"
+  },
+  {
+    "GEO.id": "HD02_VD04",
+    "Id": "Margin of Error; Male: - 5 to 9 years"
+  },
+  {
+    "GEO.id": "HD01_VD05",
+    "Id": "Estimate; Male: - 10 to 14 years"
+  },
+  {
+    "GEO.id": "HD02_VD05",
+    "Id": "Margin of Error; Male: - 10 to 14 years"
+  },
+  {
+    "GEO.id": "HD01_VD06",
+    "Id": "Estimate; Male: - 15 to 17 years"
+  },
+  {
+    "GEO.id": "HD02_VD06",
+    "Id": "Margin of Error; Male: - 15 to 17 years"
+  },
+  {
+    "GEO.id": "HD01_VD07",
+    "Id": "Estimate; Male: - 18 and 19 years"
+  },
+  {
+    "GEO.id": "HD02_VD07",
+    "Id": "Margin of Error; Male: - 18 and 19 years"
+  },
+  {
+    "GEO.id": "HD01_VD08",
+    "Id": "Estimate; Male: - 20 years"
+  },
+  {
+    "GEO.id": "HD02_VD08",
+    "Id": "Margin of Error; Male: - 20 years"
+  },
+  {
+    "GEO.id": "HD01_VD09",
+    "Id": "Estimate; Male: - 21 years"
+  },
+  {
+    "GEO.id": "HD02_VD09",
+    "Id": "Margin of Error; Male: - 21 years"
+  },
+  {
+    "GEO.id": "HD01_VD10",
+    "Id": "Estimate; Male: - 22 to 24 years"
+  },
+  {
+    "GEO.id": "HD02_VD10",
+    "Id": "Margin of Error; Male: - 22 to 24 years"
+  },
+  {
+    "GEO.id": "HD01_VD11",
+    "Id": "Estimate; Male: - 25 to 29 years"
+  },
+  {
+    "GEO.id": "HD02_VD11",
+    "Id": "Margin of Error; Male: - 25 to 29 years"
+  },
+  {
+    "GEO.id": "HD01_VD12",
+    "Id": "Estimate; Male: - 30 to 34 years"
+  },
+  {
+    "GEO.id": "HD02_VD12",
+    "Id": "Margin of Error; Male: - 30 to 34 years"
+  },
+  {
+    "GEO.id": "HD01_VD13",
+    "Id": "Estimate; Male: - 35 to 39 years"
+  },
+  {
+    "GEO.id": "HD02_VD13",
+    "Id": "Margin of Error; Male: - 35 to 39 years"
+  },
+  {
+    "GEO.id": "HD01_VD14",
+    "Id": "Estimate; Male: - 40 to 44 years"
+  },
+  {
+    "GEO.id": "HD02_VD14",
+    "Id": "Margin of Error; Male: - 40 to 44 years"
+  },
+  {
+    "GEO.id": "HD01_VD15",
+    "Id": "Estimate; Male: - 45 to 49 years"
+  },
+  {
+    "GEO.id": "HD02_VD15",
+    "Id": "Margin of Error; Male: - 45 to 49 years"
+  },
+  {
+    "GEO.id": "HD01_VD16",
+    "Id": "Estimate; Male: - 50 to 54 years"
+  },
+  {
+    "GEO.id": "HD02_VD16",
+    "Id": "Margin of Error; Male: - 50 to 54 years"
+  },
+  {
+    "GEO.id": "HD01_VD17",
+    "Id": "Estimate; Male: - 55 to 59 years"
+  },
+  {
+    "GEO.id": "HD02_VD17",
+    "Id": "Margin of Error; Male: - 55 to 59 years"
+  },
+  {
+    "GEO.id": "HD01_VD18",
+    "Id": "Estimate; Male: - 60 and 61 years"
+  },
+  {
+    "GEO.id": "HD02_VD18",
+    "Id": "Margin of Error; Male: - 60 and 61 years"
+  },
+  {
+    "GEO.id": "HD01_VD19",
+    "Id": "Estimate; Male: - 62 to 64 years"
+  },
+  {
+    "GEO.id": "HD02_VD19",
+    "Id": "Margin of Error; Male: - 62 to 64 years"
+  },
+  {
+    "GEO.id": "HD01_VD20",
+    "Id": "Estimate; Male: - 65 and 66 years"
+  },
+  {
+    "GEO.id": "HD02_VD20",
+    "Id": "Margin of Error; Male: - 65 and 66 years"
+  },
+  {
+    "GEO.id": "HD01_VD21",
+    "Id": "Estimate; Male: - 67 to 69 years"
+  },
+  {
+    "GEO.id": "HD02_VD21",
+    "Id": "Margin of Error; Male: - 67 to 69 years"
+  },
+  {
+    "GEO.id": "HD01_VD22",
+    "Id": "Estimate; Male: - 70 to 74 years"
+  },
+  {
+    "GEO.id": "HD02_VD22",
+    "Id": "Margin of Error; Male: - 70 to 74 years"
+  },
+  {
+    "GEO.id": "HD01_VD23",
+    "Id": "Estimate; Male: - 75 to 79 years"
+  },
+  {
+    "GEO.id": "HD02_VD23",
+    "Id": "Margin of Error; Male: - 75 to 79 years"
+  },
+  {
+    "GEO.id": "HD01_VD24",
+    "Id": "Estimate; Male: - 80 to 84 years"
+  },
+  {
+    "GEO.id": "HD02_VD24",
+    "Id": "Margin of Error; Male: - 80 to 84 years"
+  },
+  {
+    "GEO.id": "HD01_VD25",
+    "Id": "Estimate; Male: - 85 years and over"
+  },
+  {
+    "GEO.id": "HD02_VD25",
+    "Id": "Margin of Error; Male: - 85 years and over"
+  },
+  {
+    "GEO.id": "HD01_VD26",
+    "Id": "Estimate; Female:"
+  },
+  {
+    "GEO.id": "HD02_VD26",
+    "Id": "Margin of Error; Female:"
+  },
+  {
+    "GEO.id": "HD01_VD27",
+    "Id": "Estimate; Female: - Under 5 years"
+  },
+  {
+    "GEO.id": "HD02_VD27",
+    "Id": "Margin of Error; Female: - Under 5 years"
+  },
+  {
+    "GEO.id": "HD01_VD28",
+    "Id": "Estimate; Female: - 5 to 9 years"
+  },
+  {
+    "GEO.id": "HD02_VD28",
+    "Id": "Margin of Error; Female: - 5 to 9 years"
+  },
+  {
+    "GEO.id": "HD01_VD29",
+    "Id": "Estimate; Female: - 10 to 14 years"
+  },
+  {
+    "GEO.id": "HD02_VD29",
+    "Id": "Margin of Error; Female: - 10 to 14 years"
+  },
+  {
+    "GEO.id": "HD01_VD30",
+    "Id": "Estimate; Female: - 15 to 17 years"
+  },
+  {
+    "GEO.id": "HD02_VD30",
+    "Id": "Margin of Error; Female: - 15 to 17 years"
+  },
+  {
+    "GEO.id": "HD01_VD31",
+    "Id": "Estimate; Female: - 18 and 19 years"
+  },
+  {
+    "GEO.id": "HD02_VD31",
+    "Id": "Margin of Error; Female: - 18 and 19 years"
+  },
+  {
+    "GEO.id": "HD01_VD32",
+    "Id": "Estimate; Female: - 20 years"
+  },
+  {
+    "GEO.id": "HD02_VD32",
+    "Id": "Margin of Error; Female: - 20 years"
+  },
+  {
+    "GEO.id": "HD01_VD33",
+    "Id": "Estimate; Female: - 21 years"
+  },
+  {
+    "GEO.id": "HD02_VD33",
+    "Id": "Margin of Error; Female: - 21 years"
+  },
+  {
+    "GEO.id": "HD01_VD34",
+    "Id": "Estimate; Female: - 22 to 24 years"
+  },
+  {
+    "GEO.id": "HD02_VD34",
+    "Id": "Margin of Error; Female: - 22 to 24 years"
+  },
+  {
+    "GEO.id": "HD01_VD35",
+    "Id": "Estimate; Female: - 25 to 29 years"
+  },
+  {
+    "GEO.id": "HD02_VD35",
+    "Id": "Margin of Error; Female: - 25 to 29 years"
+  },
+  {
+    "GEO.id": "HD01_VD36",
+    "Id": "Estimate; Female: - 30 to 34 years"
+  },
+  {
+    "GEO.id": "HD02_VD36",
+    "Id": "Margin of Error; Female: - 30 to 34 years"
+  },
+  {
+    "GEO.id": "HD01_VD37",
+    "Id": "Estimate; Female: - 35 to 39 years"
+  },
+  {
+    "GEO.id": "HD02_VD37",
+    "Id": "Margin of Error; Female: - 35 to 39 years"
+  },
+  {
+    "GEO.id": "HD01_VD38",
+    "Id": "Estimate; Female: - 40 to 44 years"
+  },
+  {
+    "GEO.id": "HD02_VD38",
+    "Id": "Margin of Error; Female: - 40 to 44 years"
+  },
+  {
+    "GEO.id": "HD01_VD39",
+    "Id": "Estimate; Female: - 45 to 49 years"
+  },
+  {
+    "GEO.id": "HD02_VD39",
+    "Id": "Margin of Error; Female: - 45 to 49 years"
+  },
+  {
+    "GEO.id": "HD01_VD40",
+    "Id": "Estimate; Female: - 50 to 54 years"
+  },
+  {
+    "GEO.id": "HD02_VD40",
+    "Id": "Margin of Error; Female: - 50 to 54 years"
+  },
+  {
+    "GEO.id": "HD01_VD41",
+    "Id": "Estimate; Female: - 55 to 59 years"
+  },
+  {
+    "GEO.id": "HD02_VD41",
+    "Id": "Margin of Error; Female: - 55 to 59 years"
+  },
+  {
+    "GEO.id": "HD01_VD42",
+    "Id": "Estimate; Female: - 60 and 61 years"
+  },
+  {
+    "GEO.id": "HD02_VD42",
+    "Id": "Margin of Error; Female: - 60 and 61 years"
+  },
+  {
+    "GEO.id": "HD01_VD43",
+    "Id": "Estimate; Female: - 62 to 64 years"
+  },
+  {
+    "GEO.id": "HD02_VD43",
+    "Id": "Margin of Error; Female: - 62 to 64 years"
+  },
+  {
+    "GEO.id": "HD01_VD44",
+    "Id": "Estimate; Female: - 65 and 66 years"
+  },
+  {
+    "GEO.id": "HD02_VD44",
+    "Id": "Margin of Error; Female: - 65 and 66 years"
+  },
+  {
+    "GEO.id": "HD01_VD45",
+    "Id": "Estimate; Female: - 67 to 69 years"
+  },
+  {
+    "GEO.id": "HD02_VD45",
+    "Id": "Margin of Error; Female: - 67 to 69 years"
+  },
+  {
+    "GEO.id": "HD01_VD46",
+    "Id": "Estimate; Female: - 70 to 74 years"
+  },
+  {
+    "GEO.id": "HD02_VD46",
+    "Id": "Margin of Error; Female: - 70 to 74 years"
+  },
+  {
+    "GEO.id": "HD01_VD47",
+    "Id": "Estimate; Female: - 75 to 79 years"
+  },
+  {
+    "GEO.id": "HD02_VD47",
+    "Id": "Margin of Error; Female: - 75 to 79 years"
+  },
+  {
+    "GEO.id": "HD01_VD48",
+    "Id": "Estimate; Female: - 80 to 84 years"
+  },
+  {
+    "GEO.id": "HD02_VD48",
+    "Id": "Margin of Error; Female: - 80 to 84 years"
+  },
+  {
+    "GEO.id": "HD01_VD49",
+    "Id": "Estimate; Female: - 85 years and over"
+  },
+  {
+    "GEO.id": "HD02_VD49",
+    "Id": "Margin of Error; Female: - 85 years and over"
+  }
+]
